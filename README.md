@@ -7,12 +7,17 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - A random insult generator that pulls from a database of words. (__TBD__)
 - A transliteration tool to convert languages between alphabets. (__Perl__)
 - A simple game wherein we simply move a cube over a basic floor and jump. I want to try this in all sorts of different programming languages.
+- A simple Windows GUI application. (__Visual Basic.NET__)
+- Another simple Windows GUI application. (__F#__)
+- A simple Delphi application. (__Pascal__)
+- Yet another simple Windows GUI application, with Visual D. (__D__)
 
 # Medium
 
 - A basic mobile app for Android. (__Kotlin__)
 - A basic mobile app for iOS / iPadOS. (__Swift__)
 - A simple server that does nothing too special, it just works. (__NodeJS__ or maybe __Go__)
+- A simple Windows GUI application with Ada for .NET. (__Ada__)
 - A Discord bot. (__[Dart](https://github.com/nyxx-discord/nyxx)__ or __[Julia](https://github.com/Xh4H/Discord.jl)__)
 - A simple 3D horror game with Unity Arcadia. (__[Clojure](https://github.com/arcadia-unity/Arcadia)__)
 - Some Unity games using __F#__ and __Visual Basic.NET__, built into DLL's.
@@ -20,15 +25,31 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 
 # Hard
 
+- A simple C++Builder application. (__C++__)
 - A Minecraft modded anarchy server. (__Scala__)
+- A Minecraft death animation mod. (__Scala__ or __Clojure__)
 - A run and gun video game. (__TBD__)
 - A much more sophisticated 3D horror game with Unity Arcadia. (__Clojure__)
-- That same iOS app in Swift, but rewritten in __Objective-C__.
+- The aforementioned iOS app that I made with Swift, but now rewritten in __Objective-C__.
+- A GTA V mod, details TBD. (__Lua__ or __C#__)
+- A UE4 game with AngelScript. (__AngelScript__)
+- A UE4 game with Haxe. (__Haxe__)
+- A Heaps.io game. (__Haxe__)
+- A Dev Wiki script to let users embed Steam profiles, groups, store pages, Workshop items, etc into Fandom pages. (__JavaScript__)
 
 # Madman
 
 - A Minecraft RPG mod. (__Scala__ or __Clojure__)
+- A simple OS (with kernel and drivers) that only does one thing: it plays PAC-MAN. (__C__ / __Assembly__)
+- A PC Engine / TurboGrax emulator. (__TBD__)
+- A simple video editing application. (__Clojure__)
 
-# Wither lost his fucking mind please send help
+# I lost my fucking mind please send help
 
 - A ROM hack of Sonic the Hedgehog 2. (__Assembly__)
+- The aforementioned PAC-MAN OS, but written in __Zig__.
+- A simple digital audio workstation. (__Clojure__)
+
+# OH GOD I'M STUCK ON THE MOON HELP ME
+
+- At some point in the _really_ far future, a __very__ simple MMORPG-ish game, and then I mean VERY simple. (__TBD__)
