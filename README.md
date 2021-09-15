@@ -59,6 +59,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 # OH GOD I'M STUCK ON THE MOON HELP ME
 
 - [ ] At some point in the _really_ far future, a __very__ simple MMORPG-ish game, and then I mean VERY simple. (__TBD__)
+- [ ] A heavily modified Minecraft server, sporting both survival and minigames, with a variety of mods and plugins. (__Scala__)
 
 -----
 As you can probably tell, I really like Clojure so far lol
