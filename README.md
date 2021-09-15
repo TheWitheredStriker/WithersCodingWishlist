@@ -54,7 +54,11 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A ROM hack of Sonic the Hedgehog 2. (__Assembly__)
 - [ ] The aforementioned PAC-MAN OS, but written in __Zig__.
 - [ ] A simple digital audio workstation. (__Clojure__)
+- [ ] A moddable voxel game in the likes of Minecraft. (Probably __Clojure__, __Scala__ or __F#__)
 
 # OH GOD I'M STUCK ON THE MOON HELP ME
 
 - [ ] At some point in the _really_ far future, a __very__ simple MMORPG-ish game, and then I mean VERY simple. (__TBD__)
+
+-----
+As you can probably tell, I really like Clojure so far lol
