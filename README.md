@@ -43,6 +43,8 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - A simple OS (with kernel and drivers) that only does one thing: it plays PAC-MAN. (__C__ / __Assembly__)
 - A PC Engine / TurboGrax emulator. (__TBD__)
 - A simple video editing application. (__Clojure__)
+- An open-source platorm fighter, a la "_Super Smash Bros._ meets _M.U.G.E.N_" (__Haxe__)
+- An open-source Counter-Strike-ish game (__TBD__)
 
 # I lost my fucking mind please send help
 
