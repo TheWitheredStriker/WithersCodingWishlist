@@ -34,6 +34,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - A GTA V mod, details TBD. (__Lua__ or __C#__)
 - A UE4 game with AngelScript. (__AngelScript__)
 - A UE4 game with Haxe. (__Haxe__)
+- A UE4 horror game. (__C++__, __Haxe__, __AngelScript__ or __JavaScript__, haven't decided yet)
 - A Heaps.io game. (__Haxe__)
 - A Dev Wiki script to let users embed Steam profiles, groups, store pages, Workshop items, etc into Fandom pages. (__JavaScript__)
 
