@@ -14,5 +14,5 @@ object Main:
             case x =>
                 println("Unknown option: '" + x + "'")
     
-        if (verbose)
+        if (verbose) then
             println("How are you today?")
