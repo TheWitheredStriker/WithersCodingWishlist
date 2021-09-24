@@ -38,6 +38,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A UE4 game with the standard language. (__C++__)
 - [ ] A UE4 horror game. (__C++__, __Haxe__, __AngelScript__ or __JavaScript__, haven't decided yet)
 - [ ] A Heaps.io game. (__Haxe__)
+- [ ] A Slender Man game. (__Clojure__)
 - [ ] A Dev Wiki script to let users embed Steam profiles, groups, store pages, Workshop items, etc into Fandom pages. (__JavaScript__)
 
 # Madman
@@ -60,6 +61,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 
 - [ ] At some point in the _really_ far future, a __very__ simple MMORPG-ish game, and then I mean VERY simple. (__TBD__)
 - [ ] A heavily modified Minecraft server, sporting both survival and minigames, with a variety of mods and plugins. (__Scala__)
+- [ ] A method to allow ROM hacking retro games in a high-performance programming language other than ASM (and to convert disassemblies to and from said languages), like Nim, Julia, C, etc as well as maybe some other languages like Lisp.
 
 -----
 As you can probably tell, I really like Clojure so far lol
