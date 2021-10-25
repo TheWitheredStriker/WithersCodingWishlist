@@ -22,6 +22,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A simple 3D horror game with Unity Arcadia. (__[Clojure](https://github.com/arcadia-unity/Arcadia)__)
 - [ ] Some Unity games using __F#__ and __Visual Basic.NET__, built into DLL's.
 - [ ] A custom gamemode for _Garry's Mod_, developed for a group of friends as client work. (__Lua__)
+- [ ] An open-source plugin that integrates [Nemerle](https://github.com/rsdn/nemerle) into Visual Studio 2019. The last version supported by existing options is 2017, and said option is closed-source abandonware. (__Nemerle__)
 
 # Hard
 
