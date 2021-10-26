@@ -32,7 +32,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A run and gun video game. (__TBD__)
 - [ ] A much more sophisticated 3D horror game with Unity Arcadia. (__Clojure__)
 - [ ] The aforementioned iOS app that I made with Swift, but now rewritten in __Objective-C__.
-- [ ] A GTA V mod, details TBD. (__Lua__ or __C#__)
+- [ ] A GTA V mod, details TBD. (__Lua__, __Visual Basic .NET__, __F#__ or __C#__)
 - [ ] A UE4 game with AngelScript. (__AngelScript__)
 - [ ] A UE4 game with Unreal.hx. (__Haxe__)
 - [ ] A UE4 game with Unreal.js. (__JavaScript__)
@@ -51,6 +51,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A simple video editing application. (__Clojure__)
 - [ ] An open-source platform fighter, a la "_Super Smash Bros._ meets _M.U.G.E.N_" (__Haxe__)
 - [ ] An open-source Counter-Strike-ish game (__TBD__)
+- [ ] A .NET binding to Unreal Engine that _actually works_. The current options are either abandonware, or only support a minimal part of the UE API. (__C++__ / .NET language, either __C#__ or __F#__)
 
 # I lost my fucking mind please send help
 
@@ -58,6 +59,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] The aforementioned PAC-MAN OS, but written in __Zig__.
 - [ ] A simple digital audio workstation. (__Clojure__)
 - [ ] A moddable voxel game in the likes of Minecraft. (Probably __Clojure__, __Scala__ or __F#__)
+- [ ] Forking, updating and maintaining dead and abandoned programming languages. Currently eyeing: Nemerle, Boo, IronRuby, A#.
 
 # OH GOD I'M STUCK ON THE MOON HELP ME
 
