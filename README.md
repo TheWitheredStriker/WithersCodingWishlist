@@ -14,7 +14,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 
 # Medium
 
-- [ ] An online battle royale Puyo Puyo game that runs in your browser. (__NodeJS__ or another language using WebAssembly)
+- [ ] An online battle royale Puyo Puyo game that runs in your browser. (__[Swift through WASM](https://github.com/swiftwasm)__ or __[Objective-J](https://en.wikipedia.org/wiki/Objective-J)__)
 - [ ] A basic mobile app for Android. (__Kotlin__)
 - [ ] A basic mobile app for iOS / iPadOS. (__Swift__)
 - [ ] A simple server that does nothing too special, it just works. (__NodeJS__ or maybe __Go__)
