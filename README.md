@@ -14,6 +14,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 
 # Medium
 
+- [ ] An online battle royale Puyo Puyo game that runs in your browser. (__NodeJS__ or another language using WebAssembly)
 - [ ] A basic mobile app for Android. (__Kotlin__)
 - [ ] A basic mobile app for iOS / iPadOS. (__Swift__)
 - [ ] A simple server that does nothing too special, it just works. (__NodeJS__ or maybe __Go__)
@@ -66,6 +67,3 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] At some point in the _really_ far future, a __very__ simple MMORPG-ish game, and then I mean VERY simple. (__TBD__)
 - [ ] A heavily modified Minecraft server, sporting both survival and minigames, with a variety of mods and plugins. (__Scala__)
 - [ ] A method to allow ROM hacking retro games in a high-performance programming language other than ASM (and to convert disassemblies to and from said languages), like Nim, Julia, C, etc as well as maybe some other languages like Lisp.
-
------
-As you can probably tell, I really like Clojure so far lol
