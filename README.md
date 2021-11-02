@@ -11,6 +11,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] Another simple Windows GUI application. (__F#__)
 - [ ] A simple Delphi application. (__Pascal__)
 - [ ] Yet another simple Windows GUI application, with Visual D. (__D__)
+- [ ] A GML textmate bundle to replace the current grammar in Linguist (which simply applies C syntax highlighting to GML).
 
 # Medium
 
