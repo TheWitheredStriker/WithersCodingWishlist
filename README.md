@@ -48,6 +48,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 # Madman
 
 - [ ] A Minecraft RPG mod. (__Scala__ or __Clojure__)
+- [ ] A cross-platform Julia game engine. (__Julia__)
 - [ ] A simple OS (with kernel and drivers) that only does one thing: it lets you play PAC-MAN. (__C__ / __Assembly__)
 - [ ] A PC Engine / TurboGrafx emulator. (__TBD__)
 - [ ] A simple video editing application. (__Clojure__)
