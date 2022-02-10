@@ -42,6 +42,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A UE4 horror game. (__C++__, __Haxe__, __AngelScript__ or __JavaScript__, haven't decided yet)
 - [ ] A Heaps.io game. (__Haxe__)
 - [ ] A Slender Man game. (__Clojure__)
+- [ ] A Visual Basic .NET game engine. (__Visual Basic .NET__)
 - [ ] A Dev Wiki script to let users embed Steam profiles, groups, store pages, Workshop items, etc into Fandom pages. (__JavaScript__)
 - [ ] A cross-platform Undertale fangame / fan fight engine that _doesn't_ require / depend on GameMaker Studio. Would be built on top of either LibGDX (JVM-based) or Microsoft XNA (.NET based), unless I can somehow create and manage versions based on both, in which case I'm going for that.
 
