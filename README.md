@@ -56,6 +56,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] An open-source platform fighter, a la "_Super Smash Bros._ meets _M.U.G.E.N_" (__Haxe__)
 - [ ] An open-source Counter-Strike-ish game (__TBD__)
 - [ ] A .NET binding to Unreal Engine that _actually works_. The current options are either abandonware, or only support a minimal part of the UE API. (__C++__ / .NET language, either __C#__ or __F#__)
+- [ ] A Perl game engine, because why the hell not? (__Perl__)
 
 # I lost my fucking mind please send help
 
