@@ -53,7 +53,6 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A simple OS (with kernel and drivers) that only does one thing: it lets you play PAC-MAN. (__C__ / __Assembly__)
 - [ ] A PC Engine / TurboGrafx emulator. (__TBD__)
 - [ ] A simple video editing application. (__Clojure__)
-- [ ] An open-source platform fighter, a la "_Super Smash Bros._ meets _M.U.G.E.N_" (__Haxe__)
 - [ ] An open-source Counter-Strike-ish game (__TBD__)
 - [ ] A .NET binding to Unreal Engine that _actually works_. The current options are either abandonware, or only support a minimal part of the UE API. (__C++__ / .NET language, either __C#__ or __F#__)
 - [ ] A Perl game engine, because why the hell not? (__Perl__)
@@ -61,7 +60,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 # I lost my fucking mind please send help
 
 - [ ] A ROM hack of Sonic the Hedgehog 2. (__Assembly__)
-- [ ] The aforementioned PAC-MAN OS, but written in __Zig__.
+- [ ] The aforementioned PAC-MAN OS, but rewritten in __Zig__.
 - [ ] A simple digital audio workstation. (__Clojure__)
 - [ ] A moddable voxel game in the likes of Minecraft. (Probably __Clojure__, __Scala__ or __F#__)
 - [ ] Forking, updating and maintaining dead and abandoned programming languages. Currently eyeing: Nemerle, Boo, IronRuby, A#, Cobra, SML.NET.
@@ -69,5 +68,4 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 # OH GOD I'M STUCK ON THE MOON HELP ME
 
 - [ ] At some point in the _really_ far future, a __very__ simple MMORPG-ish game, and then I mean VERY simple. (__TBD__)
-- [ ] A heavily modified Minecraft server, sporting both survival and minigames, with a variety of mods and plugins. (__Scala__)
 - [ ] A method to allow ROM hacking retro games in a high-performance programming language other than ASM (and to convert disassemblies to and from said languages), like Nim, Julia, C, etc as well as maybe some other languages like Lisp.
