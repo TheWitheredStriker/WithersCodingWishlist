@@ -55,7 +55,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A simple video editing application. (__Clojure__)
 - [ ] An open-source Counter-Strike-ish game (__TBD__)
 - [ ] A .NET binding to Unreal Engine that _actually works_. The current options are either abandonware, or only support a minimal part of the UE API. (__C++__ / .NET language, either __C#__ or __F#__)
-  - I might fork USharp and try to continue it.
+  - I might fork USharp and try to continue it. Or maybe fork [this one](https://github.com/UE4DotNet/Plugins)?
 - [ ] A Perl game engine, because why the hell not? (__Perl__)
 
 # I lost my fucking mind please send help
