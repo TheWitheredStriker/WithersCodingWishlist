@@ -64,7 +64,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] The aforementioned PAC-MAN OS, but rewritten in __Zig__.
 - [ ] A simple digital audio workstation. (__Clojure__)
 - [ ] A moddable voxel game in the likes of Minecraft. (Probably __Clojure__, __Scala__ or __F#__)
-- [ ] Forking, updating and maintaining dead and abandoned programming languages. Currently eyeing: Nemerle, Boo, IronRuby, A#, Cobra, SML.NET.
+- [ ] Forking, updating and maintaining dead and abandoned programming languages. Currently eyeing: Nemerle, Boo, IronRuby, Noop, Cobra, SML.NET.
 
 # OH GOD I'M STUCK ON THE MOON HELP ME
 
