@@ -43,8 +43,8 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A Heaps.io game. (__Haxe__)
 - [ ] A Slender Man game. (__Clojure__)
 - [ ] A Visual Basic .NET game engine. (__Visual Basic .NET__)
-- [ ] A Dev Wiki script to let users embed Steam profiles, groups, store pages, Workshop items, etc into Fandom pages. (__JavaScript__)
-- [ ] A cross-platform Undertale fangame / fan fight engine that _doesn't_ require / depend on GameMaker Studio. Would be built on top of either LibGDX (JVM-based) or Microsoft XNA (.NET based), unless I can somehow create and manage versions based on both, in which case I'm going for that.
+- [ ] A Dev Wiki (Fandom) script to let users embed Steam profiles, groups, store pages, Workshop items, etc into Fandom pages. (__JavaScript__)
+- [ ] A fan remake of Sonic Blast. (__TBD__)
 
 # Madman
 
@@ -57,6 +57,7 @@ A repository detailed to documenting stuff I want to code one day, sorted by dif
 - [ ] A .NET binding to Unreal Engine that _actually works_. The current options are either abandonware, or only support a minimal part of the UE API. (__C++__ / .NET language, either __C#__ or __F#__)
   - I might fork USharp and try to continue it. Or maybe fork [this one](https://github.com/UE4DotNet/Plugins)?
 - [ ] A Perl game engine, because why the hell not? (__Perl__)
+- [ ] A ROM hack of Sonic Blast with all sorts of bugfixes, optimizations and quality of life additions. (__Assembly__)
 
 # I lost my fucking mind please send help
 
