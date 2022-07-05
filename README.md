@@ -2,6 +2,8 @@
 
 A repository detailed to documenting stuff I want to code one day, sorted by difficulty. Programming language is appended to the list.
 
+I reek of dreams and ambition. Planning to rewrite with more realism soon enough; most of the crazy shit is going.
+
 # Doable for a beginner
 
 - [ ] A random insult generator that pulls from a database of words. (__TBD__)
