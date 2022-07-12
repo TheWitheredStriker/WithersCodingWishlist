@@ -1,5 +1,8 @@
 # Wither's Coding Wishlist
 
+Currently blanked. Maybe return later -- just a thought, though.
+
+<!--
 A repository detailed to documenting stuff I want to code one day, sorted by difficulty. Programming language is appended to the list.
 
 I reek of dreams and ambition. Planning to rewrite with more realism soon enough; most of the crazy shit is going.
@@ -72,4 +75,4 @@ I reek of dreams and ambition. Planning to rewrite with more realism soon enough
 # OH GOD I'M STUCK ON THE MOON HELP ME
 
 - [ ] At some point in the _really_ far future, a __very__ simple MMORPG-ish game, and then I mean VERY simple. (__TBD__)
-- [ ] A method to allow ROM hacking retro games in a high-performance programming language other than ASM (and to convert disassemblies to and from said languages), like Nim, Julia, C, etc as well as maybe some other languages like Lisp.
+- [ ] A method to allow ROM hacking retro games in a high-performance programming language other than ASM (and to convert disassemblies to and from said languages), like Nim, Julia, C, etc as well as maybe some other languages like Lisp. -->
