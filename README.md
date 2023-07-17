@@ -1,78 +1,21 @@
 # Wither's Coding Wishlist
 
-Currently blanked. Maybe return later -- just a thought, though.
+Essentially a "to do list" of stuff I want to eventually get done. Some projects are easier than the other, but a select few are much more ambitious.
 
-<!--
-A repository detailed to documenting stuff I want to code one day, sorted by difficulty. Programming language is appended to the list.
+- [ ] A powerful, low-level, 2D/3D game engine known as __Tempest__, built hand in hand with my own game ideas. (__Object Pascal__)
 
-I reek of dreams and ambition. Planning to rewrite with more realism soon enough; most of the crazy shit is going.
+- [ ] An improved and extended version of [DynRPG](https://github.com/CherryDT/DynRPG), [its fork](https://github.com/rewrking/DynRPG), and its assorted [Lua scripting engine](https://github.com/kyuu/dynrpg-rpgss) that works with official (non-pirated) releases of RPG Maker 2003 and 2000. The current version only works with fan translated versions of 2k3, having been developed before it was officially released on Steam in 2015. This Steam release updated the runtime and thus broke compatibility with DynRPG. (__C++__)
 
-# Doable for a beginner
+- [ ] An up-to-date fork of [Arcadia](https://github.com/arcadia-unity/Arcadia), which has been abandoned by its developers and was left to rot. (__Clojure__/__C#__)
 
-- [ ] A random insult generator that pulls from a database of words. (__TBD__)
-- [ ] A transliteration tool to convert languages between alphabets. (__Perl__)
-- [ ] A simple game wherein we simply move a cube over a basic floor and jump. I want to try this in all sorts of different programming languages.
-- [ ] A simple Windows GUI application. (__Visual Basic.NET__)
-- [ ] Another simple Windows GUI application. (__F#__)
-- [ ] A simple Delphi application. (__Pascal__)
-- [ ] Yet another simple Windows GUI application, with Visual D. (__D__)
-- [ ] A GML textmate bundle to replace the current grammar in Linguist (which simply applies C syntax highlighting to GML).
+- [ ] A functional, modern REPL for Minecraft. (__Clojure__)
 
-# Medium
+- [ ] A modern Visual Studio plugin (2017/19/22) for the programming language [Boo](https://en.wikipedia.org/wiki/Boo_(programming_language)). Should work hand-in-hand with Boo's upcoming .NET Core compiler, currently under development by Mason Wheeler. (TBD .NET language, likely __Boo__ itself)
 
-- [ ] An online battle royale Puyo Puyo game that runs in your browser. (__[Swift through WASM](https://github.com/swiftwasm)__ or __[Objective-J](https://en.wikipedia.org/wiki/Objective-J)__)
-- [ ] A basic mobile app for Android. (__Kotlin__)
-- [ ] A basic mobile app for iOS / iPadOS. (__Swift__)
-- [ ] A simple server that does nothing too special, it just works. (__NodeJS__ or maybe __Go__)
-- [ ] A simple Windows GUI application with Ada for .NET. (__Ada__)
-- [ ] A Discord bot. (__[Dart](https://github.com/nyxx-discord/nyxx)__ or __[Julia](https://github.com/Xh4H/Discord.jl)__)
-- [ ] A simple 3D horror game with Unity Arcadia. (__[Clojure](https://github.com/arcadia-unity/Arcadia)__)
-- [ ] Some Unity games using __F#__ and __Visual Basic.NET__, built into DLL's.
-- [ ] A custom gamemode for _Garry's Mod_, developed for a group of friends as client work. (__Lua__)
-- [ ] An open-source plugin that integrates [Nemerle](https://github.com/rsdn/nemerle) into Visual Studio 2019. The last version supported by existing options is 2017, and said option is closed-source abandonware. (__Nemerle__)
+- [ ] Modern, up-to-date forks of [BetterNether-Reforged](https://github.com/Someone-Else-Was-Taken/BetterNether-Reforged) and [BetterEndForge](https://github.com/Beethoven92/BetterEndForge). BetterNether's Forge port in particular is broken, having bugs with its terrain generation that need fixing. Both of them are currently written in Java, but I would rewrite them in __Kotlin__ using tools provided by JetBrains, in order to make the code more maintainable.
 
-# Hard
+- [ ] Similarly to Mason's Boo efforts, I wish to breathe new life into [Nemerle](https://en.wikipedia.org/wiki/Nemerle). A .NET Core compiler exists, but has not been merged into the language repository (despite there having been a pull request to do this for over a year). At this point, I believe it's time for a fork (which incorporates the new compiler), which I would make as soon as I know my around around compiler development. Other planned features so far are a new Visual Studio extension (a la Boo) and a rewrite of the off-side syntax (which currently has some weird quirks), more akin to that of Scala 3. And of course, I could eventually add new language features. (__Nemerle__/__C#__)
 
-- [ ] A simple C++Builder application. (__C++__)
-- [ ] A Minecraft modded anarchy server. (__Scala__)
-- [ ] A Minecraft death animation mod. (__Scala__ or __Clojure__)
-- [ ] A run and gun video game. (__TBD__)
-- [ ] A much more sophisticated 3D horror game with Unity Arcadia. (__Clojure__)
-- [ ] The aforementioned iOS app that I made with Swift, but now rewritten in __Objective-C__.
-- [ ] A GTA V mod, details TBD. (__Lua__, __Visual Basic .NET__, __F#__ or __C#__)
-- [ ] A UE4 game with AngelScript. (__AngelScript__)
-- [ ] A UE4 game with Unreal.hx. (__Haxe__)
-- [ ] A UE4 game with Unreal.js. (__JavaScript__)
-- [ ] A UE4 game with the standard language. (__C++__)
-- [ ] A UE4 horror game. (__C++__, __Haxe__, __AngelScript__ or __JavaScript__, haven't decided yet)
-- [ ] A Heaps.io game. (__Haxe__)
-- [ ] A Slender Man game. (__Clojure__)
-- [ ] A Visual Basic .NET game engine. (__Visual Basic .NET__)
-- [ ] A Dev Wiki (Fandom) script to let users embed Steam profiles, groups, store pages, Workshop items, etc into Fandom pages. (__JavaScript__)
-- [ ] A fan remake of Sonic Blast. (__TBD__)
-
-# Madman
-
-- [ ] A Minecraft RPG mod. (__Scala__ or __Clojure__)
-- [ ] A cross-platform Julia game engine. (__Julia__)
-- [ ] A simple OS (with kernel and drivers) that only does one thing: it lets you play PAC-MAN. (__C__ / __Assembly__)
-- [ ] A PC Engine / TurboGrafx emulator. (__TBD__)
-- [ ] A simple video editing application. (__Clojure__)
-- [ ] An open-source Counter-Strike-ish game (__TBD__)
-- [ ] A .NET binding to Unreal Engine that _actually works_. The current options are either abandonware, or only support a minimal part of the UE API. (__C++__ / .NET language, either __C#__ or __F#__)
-  - I might fork USharp and try to continue it. Or maybe fork [this one](https://github.com/UE4DotNet/Plugins)?
-- [ ] A Perl game engine, because why the hell not? (__Perl__)
 - [ ] A ROM hack of Sonic Blast with all sorts of bugfixes, optimizations and quality of life additions. (__Assembly__)
 
-# I lost my fucking mind please send help
-
-- [ ] A ROM hack of Sonic the Hedgehog 2. (__Assembly__)
-- [ ] The aforementioned PAC-MAN OS, but rewritten in __Zig__.
-- [ ] A simple digital audio workstation. (__Clojure__)
-- [ ] A moddable voxel game in the likes of Minecraft. (Probably __Clojure__, __Scala__ or __F#__)
-- [ ] Forking, updating and maintaining dead and abandoned programming languages. Currently eyeing: Nemerle, Boo, IronRuby, Noop, Cobra, SML.NET.
-
-# OH GOD I'M STUCK ON THE MOON HELP ME
-
-- [ ] At some point in the _really_ far future, a __very__ simple MMORPG-ish game, and then I mean VERY simple. (__TBD__)
-- [ ] A method to allow ROM hacking retro games in a high-performance programming language other than ASM (and to convert disassemblies to and from said languages), like Nim, Julia, C, etc as well as maybe some other languages like Lisp. -->
+- [ ] A GBA game using [Rath](https://github.com/stuij/rath). (__Forth__)
