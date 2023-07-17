@@ -16,6 +16,6 @@ Essentially a "to do list" of stuff I want to eventually get done. Some projects
 
 - [ ] Similarly to Mason's Boo efforts, I wish to breathe new life into [Nemerle](https://en.wikipedia.org/wiki/Nemerle). A .NET Core compiler exists, but has not been merged into the language repository (despite there having been a pull request to do this for over a year). At this point, I believe it's time for a fork (which incorporates the new compiler), which I would make as soon as I know my around around compiler development. Other planned features so far are a new Visual Studio extension (a la Boo) and a rewrite of the off-side syntax (which currently has some weird quirks), more akin to that of Scala 3. And of course, I could eventually add new language features. (__Nemerle__/__C#__)
 
-- [ ] A ROM hack of Sonic Blast with all sorts of bugfixes, optimizations and quality of life additions. (__Assembly__)
+- [ ] A Minecraft project that implements Fabric and Quilt on top of Minecraft Forge, so that hopefully we can finally do away with the tribal "Forge or Fabric" mentality. Essentially, Patchworks, but the other way around (Fabric -> Forge instead of Forge -> Fabric). (__Scala__ or __Kotlin__)
 
 - [ ] A GBA game using [Rath](https://github.com/stuij/rath). (__Forth__)
